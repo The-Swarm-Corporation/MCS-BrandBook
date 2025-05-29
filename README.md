@@ -1,6 +1,5 @@
 # MCS Healthcare Brand Guidelines
 
-
 ## Overview
 
 **MCS Healthcare** is an innovative AI-driven healthcare technology company developing the next generation of medical coding solutions. Our flagship product, the Medical Coder Swarm (MCS), leverages advanced artificial intelligence and swarm technology to revolutionize healthcare system efficiency.
@@ -118,6 +117,15 @@ ORBITION is our signature typeface that conveys both professionalism and technol
 2. **Healthcare Innovation**: Next-generation medical coding
 3. **Scalable Solutions**: Accessible to healthcare systems worldwide
 4. **Cost-Effective**: Reducing high human costs in medical coding
+
+---
+
+## Contact & Support
+
+For questions about brand guidelines, asset requests, or implementation support:
+
+**Swarms Discord**: https://discord.gg/jM3Z6M9uMq  
+**Swarms Telegram**: https://t.me/swarmsgroupchat
 
 ---
 
