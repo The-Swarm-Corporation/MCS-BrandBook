@@ -1,7 +1,8 @@
 # MCS Healthcare Brand Guidelines
 
-
 *[Check Out The Full MCS Branding Book Here](mcs_branding.pdf)*
+
+![mcs branding book](new_mcs_banner.jpg)
 
 ## Overview
 
