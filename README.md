@@ -1,5 +1,8 @@
 # MCS Healthcare Brand Guidelines
 
+
+** [Check Out The Full MCS Branding Book Here](mcs_branding.pdf)
+
 ## Overview
 
 **MCS Healthcare** is an innovative AI-driven healthcare technology company developing the next generation of medical coding solutions. Our flagship product, the Medical Coder Swarm (MCS), leverages advanced artificial intelligence and swarm technology to revolutionize healthcare system efficiency.
