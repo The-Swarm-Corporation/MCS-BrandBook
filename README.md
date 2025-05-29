@@ -1,6 +1,5 @@
 # MCS Healthcare Brand Guidelines
 
-![MCS Healthcare Logo](logo-placeholder.png)
 
 ## Overview
 
